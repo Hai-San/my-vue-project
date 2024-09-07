@@ -13,7 +13,7 @@ export default [
     languageOptions: {
       parserOptions: {
         ecmaVersion: 'latest',
-        sourceType: 'module' // Se estiver usando módulos ES
+        sourceType: 'module'
       }
     },
   },
